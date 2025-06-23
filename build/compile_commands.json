@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang -Dcec17_test_func_EXPORTS -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -fPIC -o CMakeFiles/cec17_test_func.dir/code/cec17_test_func.c.o -c /home/gabriel/clase/MH/FinalProject/code/cec17_test_func.c",
+  "file": "/home/gabriel/clase/MH/FinalProject/code/cec17_test_func.c",
+  "output": "CMakeFiles/cec17_test_func.dir/code/cec17_test_func.c.o"
+},
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang -Dcec17_test_func_EXPORTS -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -fPIC -o CMakeFiles/cec17_test_func.dir/code/cec17.c.o -c /home/gabriel/clase/MH/FinalProject/code/cec17.c",
+  "file": "/home/gabriel/clase/MH/FinalProject/code/cec17.c",
+  "output": "CMakeFiles/cec17_test_func.dir/code/cec17.c.o"
+},
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang++ -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -o CMakeFiles/main.dir/main.cpp.o -c /home/gabriel/clase/MH/FinalProject/main.cpp",
+  "file": "/home/gabriel/clase/MH/FinalProject/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang++ -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -o CMakeFiles/main.dir/src/RF.cpp.o -c /home/gabriel/clase/MH/FinalProject/src/RF.cpp",
+  "file": "/home/gabriel/clase/MH/FinalProject/src/RF.cpp",
+  "output": "CMakeFiles/main.dir/src/RF.cpp.o"
+},
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang++ -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -o CMakeFiles/main.dir/src/RFGroups.cpp.o -c /home/gabriel/clase/MH/FinalProject/src/RFGroups.cpp",
+  "file": "/home/gabriel/clase/MH/FinalProject/src/RFGroups.cpp",
+  "output": "CMakeFiles/main.dir/src/RFGroups.cpp.o"
+},
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang++ -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -o CMakeFiles/main.dir/src/population.cpp.o -c /home/gabriel/clase/MH/FinalProject/src/population.cpp",
+  "file": "/home/gabriel/clase/MH/FinalProject/src/population.cpp",
+  "output": "CMakeFiles/main.dir/src/population.cpp.o"
+},
+{
+  "directory": "/home/gabriel/clase/MH/FinalProject/build",
+  "command": "/usr/bin/clang++ -I/home/gabriel/clase/MH/FinalProject/common -I/home/gabriel/clase/MH/FinalProject/inc -I/home/gabriel/clase/MH/FinalProject/inc/P1 -I/home/gabriel/clase/MH/FinalProject/inc/P2 -I/home/gabriel/clase/MH/FinalProject/inc/P3 -I/home/gabriel/clase/MH/FinalProject/code -g -o CMakeFiles/main.dir/src/problem.cpp.o -c /home/gabriel/clase/MH/FinalProject/src/problem.cpp",
+  "file": "/home/gabriel/clase/MH/FinalProject/src/problem.cpp",
+  "output": "CMakeFiles/main.dir/src/problem.cpp.o"
+}
+]

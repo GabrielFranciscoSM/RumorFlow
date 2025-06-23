@@ -1,0 +1,4 @@
+/home/gabriel/clase/MH/FinalProject/build/CMakeFiles/cec17_test_func.dir
+/home/gabriel/clase/MH/FinalProject/build/CMakeFiles/main.dir
+/home/gabriel/clase/MH/FinalProject/build/CMakeFiles/edit_cache.dir
+/home/gabriel/clase/MH/FinalProject/build/CMakeFiles/rebuild_cache.dir
